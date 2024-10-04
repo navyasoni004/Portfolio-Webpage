@@ -216,9 +216,7 @@ body {
     color:black;
   }
   
-  /* .product-design {
-    text-decoration: none;
-  } */
+  
   
   .link{
     color:white;
@@ -236,28 +234,4 @@ body {
   
   }
   
-    /* .readmore {
-      background-color: black;
-      color: white;
-      border: none;
-      padding: 10px 20px;
-      border-radius: 5px;
-      cursor: pointer;
-    } */
-    /* .readmore:hover,.readmore:active {
-      background-color:black;
-      color:white; */
-    /* } */
-    /* .readless {
-      display: none;
-      background-color: black;
-      color: white;
-      border: none;
-      padding: 10px 20px;
-      border-radius: 5px;
-      cursor: pointer; */
-    /* } */
-    /* .readless:hover {
-      background-color: black;
-    }
-  */
+   
